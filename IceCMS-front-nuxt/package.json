@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/component-cache": "^1.1.6",
     "@nuxtjs/proxy": "^2.0.1",
-    "axios": "^0.21.0",
+    "axios": "^0.28.0",
     "cookie-universal-nuxt": "^2.2.2",
     "core-js": "^3.30.2",
     "element-ui": "^2.15.1",
@@ -36,9 +36,9 @@
     "fibers": "^5.0.2",
     "less": "^3.12.2",
     "less-loader": "^7.1.0",
-    "node-sass": "^7.0.1",
+    "node-sass": "^9.0.0",
     "sass": "^1.54.1",
     "sass-loader": "^10.3.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.91.0"
   }
 }
